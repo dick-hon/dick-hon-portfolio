@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dick-hon.github.io/static/css/main.1ef3a49a.css",
-    "main.js": "/dick-hon.github.io/static/js/main.653346a5.js",
-    "static/js/787.f244d299.chunk.js": "/dick-hon.github.io/static/js/787.f244d299.chunk.js",
-    "static/media/logo.svg": "/dick-hon.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/dick-hon.github.io/index.html",
-    "main.1ef3a49a.css.map": "/dick-hon.github.io/static/css/main.1ef3a49a.css.map",
-    "main.653346a5.js.map": "/dick-hon.github.io/static/js/main.653346a5.js.map",
-    "787.f244d299.chunk.js.map": "/dick-hon.github.io/static/js/787.f244d299.chunk.js.map"
+    "main.css": "/dick-hon-portfolio/static/css/main.1ef3a49a.css",
+    "main.js": "/dick-hon-portfolio/static/js/main.7124f791.js",
+    "static/js/787.f244d299.chunk.js": "/dick-hon-portfolio/static/js/787.f244d299.chunk.js",
+    "static/media/logo.svg": "/dick-hon-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dick-hon-portfolio/index.html",
+    "main.1ef3a49a.css.map": "/dick-hon-portfolio/static/css/main.1ef3a49a.css.map",
+    "main.7124f791.js.map": "/dick-hon-portfolio/static/js/main.7124f791.js.map",
+    "787.f244d299.chunk.js.map": "/dick-hon-portfolio/static/js/787.f244d299.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ef3a49a.css",
-    "static/js/main.653346a5.js"
+    "static/js/main.7124f791.js"
   ]
 }
